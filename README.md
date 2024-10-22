@@ -42,7 +42,7 @@ https://www.geradordepersonas.com.br/result-840OZ-7662BW.html
 https://www.geradordepersonas.com.br/result-840OZ-7662BW.html
 -----------------------------------------------------------------------------------------------------
 LINK TRELLO
-https://trello.com/invite/b/6716e161a403a6833f9c0a26/ATTI232efbd7c25bf31c639dcce9abab002f2F08EA3E/product-backlog
+
 
 
 
