@@ -26,7 +26,7 @@ A aplicação fornece informações sobre centros esportivos, associações e cl
 tanto gratuitas quanto pagas, garantindo que as crianças possam participar de forma acessível e segura.
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------
 
 Segue Link criado via forms , para pesquisa e coleta de dados referente a iniciação do projeto.
 
@@ -34,13 +34,15 @@ Segue Link criado via forms , para pesquisa e coleta de dados referente a inicia
 https://forms.gle/XUWHvZdCoD1VNduZ8
 
 https://docs.google.com/forms/d/e/1FAIpQLSfcn5-Pj2lbI5mswNqtx_hx8rww48nktRhyE9y_1Rx_5h6pPA/viewform?usp=sf_link
-
+----------------------------------------------------------------------------------------------------------------------------
 Abaixo segue link da persona criado em sala na data do dia 14/10/2024
 
 https://www.geradordepersonas.com.br/result-840OZ-7662BW.html
 
 https://www.geradordepersonas.com.br/result-840OZ-7662BW.html
------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+ATIVIDADE SOLICITADA EM SALA - 21/10/2024
+
 LINK TRELLO
 
 https://trello.com/invite/b/6716e161a403a6833f9c0a26/ATTI232efbd7c25bf31c639dcce9abab002f2F08EA3E/product-backlog
