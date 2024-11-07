@@ -87,5 +87,7 @@ https://trello.com/invite/b/6716e161a403a6833f9c0a26/ATTI232efbd7c25bf31c639dcce
 Link Miro - 
 https://miro.com/app/board/uXjVLJz_Z3s=/
 
-
+-----------------------------------------------------------------------------------------------------------------------------------
+Link Miro (Jornada do usuario Fornecr segurança)
+https://miro.com/app/board/uXjVLIfN1o4=/
 
