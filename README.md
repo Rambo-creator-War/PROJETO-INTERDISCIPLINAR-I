@@ -105,5 +105,10 @@ Link Miro
 (Jornada do usuario Facilitando acessibilidade)
 
 https://miro.com/app/board/uXjVLIehMsw=/
+----------------------------------------------------------------------------------------------------------------------------------
+Link Miro 
 
+(Jornada do usuario Promovendo Inclusao)
+
+https://miro.com/app/board/uXjVLIeIgME=/
 
