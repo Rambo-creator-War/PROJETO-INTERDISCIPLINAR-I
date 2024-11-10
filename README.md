@@ -119,6 +119,7 @@ Apoio à Inclusão Social: Promover a participação de crianças com necessidad
  👨‍💻 Scrum Master
 
 Nome: RODRIGO DE LIMA
+
 E-mail: RLIMA75998@GMAIL.COM  
 Responsabilidades: Facilitar a comunicação dentro da equipe, remover obstáculos, garantir que os processos Scrum sejam seguidos corretamente e promover a melhoria contínua.
 
@@ -136,7 +137,7 @@ Se você deseja contribuir para o projeto, fique à vontade para abrir issues e 
 
  📑 Licença
 
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSES) para mais detalhes.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
