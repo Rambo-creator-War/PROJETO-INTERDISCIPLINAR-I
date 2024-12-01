@@ -5,7 +5,10 @@
 
 ![pinhaius-city](https://github.com/user-attachments/assets/86a25d6d-784a-4398-9305-99d9ba32d703)
 
-Sobre Meu Projeto.
+Sobre Meu Projeto. 
+
+"" INCLUSIVAPLAY ""
+"juntos no Esporte , Juntos na Vida"
 
 Projeto de aplicativo inclusivo para crianças com necessidades especiais.
 Segue um pequeno detalhe no README estruturado de forma dinâmica, clara e com informações completas, para facilitar o 
