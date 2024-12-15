@@ -251,3 +251,19 @@ Link Miro
 
 https://miro.com/app/board/uXjVLIeIgME=/
 
+
+=================================================================================================================================
+=================================================================================================================================
+
+QUANT-UX - ATIVIDADE SOLICITADA DIA 02/12/2024
+LINKS - TESTES
+https://app.quant-ux.com/#/test.html?h=a2aa10aQgqcK4BJqKXpqM7iBaF8EyhRMR49vgktpG3b1NGkSXDbzacga3Vcu&ln=en
+https://app.quant-ux.com/#/share.html?h=a2aa10aQgqcK4BJqKXpqM7iBaF8EyhRMR49vgktpG3b1NGkSXDbzacga3Vcu
+a2aa10aQgqcK4BJqKXpqM7iBaF8EyhRMR49vgktpG3b1NGkSXDbzacga3Vcu
+
+
+
+
+
+
+
