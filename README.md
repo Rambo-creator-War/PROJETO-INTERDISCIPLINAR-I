@@ -11,7 +11,7 @@ Sobre Meu Projeto.
 
 "juntos no Esporte , Juntos na Vida"
 
-Projeto de aplicativo inclusivo para crianças com necessidades especiais.
+Projeto de uma aplicação Web inclusivo para crianças com necessidades especiais.
 Segue um pequeno detalhe no README estruturado de forma dinâmica, clara e com informações completas, para facilitar o 
 entendimento de todos que possam acessar o repositório no GitHub.
 
