@@ -15,8 +15,6 @@ Projeto de uma aplicação Web inclusivo para crianças com necessidades especia
 Segue um pequeno detalhe no README estruturado de forma dinâmica, clara e com informações completas, para facilitar o 
 entendimento de todos que possam acessar o repositório no GitHub.
 
-Aplicativo Inclusivo para Crianças com Necessidades Especiais
-
 Descrição:
 
 Este projeto tem como objetivo desenvolver uma aplicação web inclusiva que ajude crianças com necessidades especiais a 
@@ -89,33 +87,13 @@ Impacto Social: Melhorar a qualidade de vida de crianças com necessidades espec
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👥 Personas (Ficticios)
-
-Ana: Criança de 8 anos com paralisia cerebral, adora atividades físicas, mas encontra dificuldades para encontrar opções de esportes adaptados. 
-João: Pai de Ana, preocupado com a acessibilidade e segurança dos espaços para a prática de esportes.
-Paula: Instrutora de esportes adaptados, busca uma plataforma para divulgar suas aulas e eventos.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-📜 História do Usuário
-
-Como responsável (João), eu quero encontrar facilmente centros de esportes adaptados na minha cidade, para que minha filha, Ana, tenha acesso a atividades físicas que atendam às suas necessidades.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 🖥️ Lista de Recursos do Sistema
-
-Frontend: Aplicação web responsiva, com interface amigável e acessível.
-Backend: API RESTful para gestão de dados (locais, eventos, avaliações).
-Banco de Dados: Armazenamento dinâmico de informações sobre centros esportivos, atividades e avaliações.
-Geolocalização: Funcionalidade para buscar locais próximos à localização do usuário.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌱 Objetivos Sustentáveis
 
 Acessibilidade Universal: Garantir que a plataforma seja acessível para usuários com diferentes deficiências.
-Impacto Ambiental: Minimizar o consumo de recursos e promover práticas sustentáveis no desenvolvimento e operação do sistema.
+
 Apoio à Inclusão Social: Promover a participação de crianças com necessidades especiais em atividades físicas e esportivas de forma igualitária.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -155,18 +133,7 @@ Rodrigo de Lima
 
 
 
-Aplicativo e/ou Pagina WEB 
 
-Inclusivo para Crianças com Necessidades Especiais.
-
-Exemplo inicial : Autismo / Tdah 
-
-Descrição: https://blog.neuromaster.inf.br/wp-content/uploads/2024/06/crianca-hiperativa-como-lidar.jpeg
-
-Este projeto visa criar um aplicativo / e / ou pagina web inclusivo que ajude crianças com necessidades especiais a encontrar
-locais que ofereçam esportes adaptados dentro do estado ou municipio. 
-A aplicação fornece informações sobre centros esportivos, associações e clubes que oferecem atividades físicas, 
-tanto gratuitas quanto pagas, garantindo que as crianças possam participar de forma acessível e segura.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -255,6 +222,15 @@ LINKS - TESTES
 https://app.quant-ux.com/#/test.html?h=a2aa10aQgqcK4BJqKXpqM7iBaF8EyhRMR49vgktpG3b1NGkSXDbzacga3Vcu&ln=en
 https://app.quant-ux.com/#/share.html?h=a2aa10aQgqcK4BJqKXpqM7iBaF8EyhRMR49vgktpG3b1NGkSXDbzacga3Vcu
 a2aa10aQgqcK4BJqKXpqM7iBaF8EyhRMR49vgktpG3b1NGkSXDbzacga3Vcu
+----------------------------------------------------------------------------------------------------------------------------------
+==================================================================================================================================
+
+Link - Miro _ BrainsTorming 
+
+https://miro.com/welcomeonboard/ZE52Nlg1MmZQQnZFVkxpSFdSVnBlT0NZNE1qdXN2MUpqdDVJQ0QrMkNVa3haMU8zVWZSeFRtcG9VbVNHZlQ2Y0M2ZnFZbVo0RWxTWHNXTDhHdHJab1pCWFNUZE1SNFJFUWg0MkMzeHRGZytleVcyZWpsUkRtei9hWDBPYjF6WTEhZQ==?share_link_id=455606811055
+
+
+
 
 
 
