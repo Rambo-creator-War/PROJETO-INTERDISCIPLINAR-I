@@ -7,16 +7,11 @@ Acesso ao PROJETO INTERDISCIPLINAR II      Link     ( https://github.com/Rambo-c
 
 <a href="https://github.com/Rambo-creator-War/PROJETO-INTERDISCIPLINAR-III" target="_blank" style="text-decoration: none;">
   <div style="display: inline-block; padding: 15px 25px; background: linear-gradient(45deg, #ff0066, #ffcc00); color: white; font-weight: bold; border-radius: 10px; box-shadow: 0 0 10px #ff0066, 0 0 20px #ffcc00; animation: blink 1s infinite;">
-    🌟 VISITE O REPOSITÓRIO AGORA! 🌟
+    🌟 VISITE O REPOSITÓRIO - PROJETO INTERDICIPLINAR - III! 🌟
   </div>
 </a>
 
-<style>
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.4; }
-}
-</style>
+
 
 
 
